@@ -44,7 +44,7 @@ export default function Profile() {
                                         1000,
                                         "Wordpress Expert",
                                         1000,
-                                        "React/Bootstrap Developer",
+                                        "React/Bootstrap Dev",
                                         1000,
                                         "Specialist in Networking",
                                         1000,
@@ -57,18 +57,27 @@ export default function Profile() {
                             Knack of building websites with frontend operations.
                         </span>
                     </div>
-                    <div className='mt-4'>
-                        <button>Hire Me!</button>
 
-                        <a href="shebi.pdf" download="Shah Zaib.pdf">
+
+
+                    <div className='buttons mt-4'>
+                        <a className='btn1' href="#">
+                            <button>Hire Me!</button>
+
+                        </a>
+
+                        <a className='btn2' href="shebi.pdf" download="Shah Zaib.pdf">
                             <button>Get CV</button>
                         </a>
                     </div>
 
-                    <div className="profile-picture">
+
+
+                    <div className="profile-picture-background">
 
                     </div>
 
+                    
                 </div>
             </div>
         </div>
