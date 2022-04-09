@@ -8,7 +8,7 @@ export default function Profile() {
             <div className='profile-parent'>
                 <div className='profile-detail'>
                     <div className='icon-column'>
-                        <div className="all-icons">
+                        <div className="all-icons" style={{padding: "10px"}}>
                             <a href="#">
                                 <i class="fa-brands fa-facebook"></i>
                             </a>

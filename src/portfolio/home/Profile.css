@@ -67,7 +67,7 @@ body {
     margin-left: 10px;
 }
 
-/* .profile-picture-background {
+.profile-picture-background {
     box-shadow: 0 1px 0px 0px white;
     border-radius: 50%;
     height: 380px;
@@ -77,4 +77,4 @@ body {
     background-position: center;
     background-size: cover;
 
-} */
+}
